@@ -1,7 +1,7 @@
-### 📑: about me :
+### 📑 about me :
 
-- 👋 hey, i’m nohell
-- 👀 i’m a master at solving problems that i created
+- 👋 hey, i’m noel
+- 🤞 i’m a master at solving problems that i created
 
 ---
 
