@@ -1,7 +1,8 @@
 ### 📑 about me :
 
-- 👋 hey, i’m noel
-- 🤞 i’m a master at solving problems that i created
+-  hey, i’m noel
+-  19 years old
+-  i’m a master at solving problems that i created
 
 ---
 
