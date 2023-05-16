@@ -1,4 +1,4 @@
-### 📑 about me :
+### 📑 about me 
 
 -  hey, i’m noel
 -  19 years old
@@ -6,7 +6,12 @@
 
 ---
 
-### :hammer_and_wrench: languages and tools :
+### 📊 my stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FIEF-nohell&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :hammer_and_wrench: languages and tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
@@ -29,8 +34,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" **alt="FileZilla" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
 </div>
-
----
-
-### 📊 my stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FIEF-nohell&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
