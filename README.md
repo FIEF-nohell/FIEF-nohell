@@ -62,7 +62,7 @@
 
 <div>
 
-  ## 📫 &nbsp;My Contacts
+  <!-- ## 📫 &nbsp;My Contacts -->
 
   <!--  [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
   <!--  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;-->
@@ -74,5 +74,4 @@
 
 
 
-------
 Last Edited on: 28/08/2023
