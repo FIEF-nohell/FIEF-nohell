@@ -5,13 +5,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FIEF-nohell&color=blueviolet" alt="Profile views" />
-  &nbsp;
-  <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/FIEF-nohell?style=social" alt="Followers" />
-  </a>
-</p>
+
 
 
 <div>
@@ -26,6 +20,13 @@
 
   <br>
   
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FIEF-nohell&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/Pepyn0?tab=followers">
+    <img src="https://img.shields.io/github/followers/FIEF-nohell?style=social" alt="Followers" />
+  </a>
+</p>
 
 </div>
 
