@@ -12,7 +12,7 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 🔭 I'm currently working at <a href="#">MULTIMEDIAFABRIK</a> as full-stack web-dev
+  - 🔭 I'm currently working at <a href="https://github.com/MULTIMEDIAFARBIK">MULTIMEDIAFABRIK</a> as full-stack web-dev
 
   - 🌱  I’m currently working with **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS** and **Python**.
 
