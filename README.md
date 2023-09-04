@@ -51,7 +51,7 @@
 
 <div>
 
-  ## 📊 &nbsp;My activities
+  ## 📊 &nbsp;My recent activities
   <a href="https://github.com/FIEF-nohell">
     <img width=450 height=170 align="center" alt="FIEF-nohell" src="https://github-readme-stats.vercel.app/api?username=FIEF-nohell&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
