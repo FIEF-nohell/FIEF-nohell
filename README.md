@@ -14,7 +14,7 @@
 
   - 🔭 I'm currently working at <a href="https://github.com/MULTIMEDIAFARBIK">MULTIMEDIAFABRIK</a> as full stack web developer
 
-  - 🌱  I’m currently working with **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS** and **Python**.
+  - 🌱  The tech stack for my latest projects include **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS** and **Python**.
 
   - ⚡ Tech enthusiast.
 
