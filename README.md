@@ -59,15 +59,6 @@
   </a>
 </div>
 
-<div>
-
-  ## 📫 &nbsp;My Contacts
-
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:noel.hmnn@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/noel_her/)&nbsp;
-
-</div>
-
 ---
 
 Last Edited on: 12/12/2023
