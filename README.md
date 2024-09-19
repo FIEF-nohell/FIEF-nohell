@@ -14,7 +14,9 @@
 
   - 🔭 I'm currently working at <a href="https://github.com/MULTIMEDIAFARBIK">MULTIMEDIAFABRIK</a> as full stack web developer
 
-  - 🌱  The tech stack for my latest projects include **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS** and **Python**.
+  - 👔 Current side project: <a href="https://github.com/versa-shop">versa shop</a> (next.js)
+
+  - 🌱 The tech stack for my latest projects include **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS** and **Python**.
 
   - ⚡ Tech and AI enthusiast with a burning passion for everything that has an engine.
 
@@ -61,4 +63,4 @@
 
 ---
 
-Last Edited on: 12/12/2023
+Last Edited on: 19/09/2024
