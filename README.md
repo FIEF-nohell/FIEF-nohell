@@ -14,7 +14,7 @@
 
   - 🔭 I'm currently working at <a href="https://github.com/MULTIMEDIAFARBIK">MULTIMEDIAFABRIK</a> as full stack web developer
 
-  - 👔 Current side project: <a href="https://github.com/versa-shop">versa shop</a> (next.js)
+  - 👔 Current side project: <a href="https:/versa-shop.atp">versa streetwear</a> (next.js)
 
   - 🌱 The tech stack for my latest projects include **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS** and **Python**.
 
