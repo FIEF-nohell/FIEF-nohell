@@ -1,11 +1,13 @@
-## 🧭 About Me
+# hey there, i'm noel! 👋
 
-- 🔭 I'm currently working at [MULTIMEDIAFABRIK](https://github.com/MULTIMEDIAFARBIK) as a full stack web developer.
-- ⚡ Tech and AI enthusiast with a burning passion for everything that has an engine.
+I'm a developer passionate about creating intuitive, responsive, and meaningful experiences. My focus lies primarily in modern web technologies, AI-driven applications, and streamlined UI/UX design.
 
-</br>
+## 🚀 Tech Stack & Interests
 
-## 🛠️ My Tech Stacks
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, Python, FastAPI
+- **AI & ML:** Local LLM deployments, speech-to-text (STT), text-to-speech (TTS), streaming AI integrations
+- **Tools & Platforms:** Git, GitHub, Docker, LM Studio, Vercel
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -20,6 +22,14 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=flat&logo=prisma)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Nextjs-0D1117?style=flat&logo=next.js)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-0D1117?style=flat&logo=tailwind-css)
+
+## 🛠️ What I'm Working On
+
+Currently building innovative AI-driven applications emphasizing real-time interactions and natural user experiences—especially focusing on integrating voice interfaces and localized AI models.
+
+## 🎯 Goals & Philosophy
+
+I believe great technology empowers people, making complex tasks simple, intuitive, and accessible to everyone. My aim is to bridge the gap between powerful AI capabilities and seamless, everyday user interactions.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FIEF-nohell&color=blueviolet" alt="Profile views" />
