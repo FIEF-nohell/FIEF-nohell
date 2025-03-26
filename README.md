@@ -1,6 +1,6 @@
-# hey there, i'm noel! 👋
+# hey there, i'm noel
 
-I'm a developer passionate about creating intuitive, responsive, and meaningful experiences. My focus lies primarily in modern web technologies, AI-driven applications, and streamlined UI/UX design.
+i create things, i break things and sometimes i even learn from these processes
 
 ## 🚀 Tech Stack & Interests
 
