@@ -27,10 +27,6 @@ i create things, i break things and sometimes i even learn from these processes
 
 Currently building innovative AI-driven applications emphasizing real-time interactions and natural user experiences—especially focusing on integrating voice interfaces and localized AI models.
 
-## 🎯 Goals & Philosophy
-
-I believe great technology empowers people, making complex tasks simple, intuitive, and accessible to everyone. My aim is to bridge the gap between powerful AI capabilities and seamless, everyday user interactions.
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FIEF-nohell&color=blueviolet" alt="Profile views" />
   &nbsp;
