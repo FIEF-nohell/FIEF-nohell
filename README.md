@@ -5,9 +5,3 @@ usually involves web apps, tools i wish existed, and questionable life choices.
 
 i like dark themes, clean code, and chaos (in controlled doses).  
 ask me about my "why did i build this" projects.
-
----
-
-🛠️ building tools i use  
-🔥 breaking things i love  
-📈 occasionally learning from it
